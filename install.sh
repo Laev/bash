@@ -21,8 +21,8 @@ git clone https://gitee.com/xnng/bash.git \
 && mkdir -p ~/.vim/colors \
 && cp vim-theme/colors/molokai.vim ~/.vim/colors/ \
 && cp .vimrc ~ \
-&& echo "-------install fonts" \
-&& start c://Windows//Fonts \
-&& start %cd%/fonts \
+# && echo "-------install fonts" \
+# && start c://Windows//Fonts \
+# && start %cd%/fonts \
 && echo "please copy 'DejaVu Sans Mono for Powerline.tty' to 'C:/Windows/Fonts' by your hands" \
 && echo "enjoy it !"
