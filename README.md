@@ -8,7 +8,7 @@
 ## 一键配置
 
 ```bash
-$ curl https://gitee.com/xnng/bash/raw/master/install.sh | sh
+$ curl https://github.com/Laev/bash/blob/master/install.sh | sh
 ```
 
 执行以上命令即可安装我的所有配置，其中有:
